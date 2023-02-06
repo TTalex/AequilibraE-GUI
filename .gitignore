@@ -7,6 +7,9 @@
 
 # User-specific stuff:
 .idea/*
+test/data/SiouxFalls_project/aequilibrae.log
+test/data/SiouxFalls_project/path_files/
+test/data/SiouxFalls_project/results_database.sqlite
 
 # CMake
 cmake-build-debug/
